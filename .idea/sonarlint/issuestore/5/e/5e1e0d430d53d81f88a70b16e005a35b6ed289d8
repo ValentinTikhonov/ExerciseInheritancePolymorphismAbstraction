@@ -1,0 +1,14 @@
+
+o
+java:S1104"RMake itemID a static final constant or non-public and provide accessors if needed.(¤³»ˆ8“Óë–Æ1
+m
+java:S1104"PMake desc a static final constant or non-public and provide accessors if needed.(³«´Ñ8“Óë–Æ1
+w
+java:S1104"UMake colorCode a static final constant or non-public and provide accessors if needed.(ß®Âùÿÿÿÿ8“Óë–Æ1
+r
+java:S1104"PMake size a static final constant or non-public and provide accessors if needed.(ÅˆÃúÿÿÿÿ8“Óë–Æ1
+n
+java:S1104
+"QMake price a static final constant or non-public and provide accessors if needed.(Ó¨¤ï8“Óë–Æ1
+G	java:S106"+Replace this use of System.out by a logger.(ĞßË¦8˜Óë–Æ1
+G	java:S106"+Replace this use of System.out by a logger.(£˜¢8šÓë–Æ1

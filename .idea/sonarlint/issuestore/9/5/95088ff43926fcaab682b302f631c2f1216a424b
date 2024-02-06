@@ -1,0 +1,13 @@
+
+Y
+java:S1854+"<Remove this useless assignment to local variable "clothing".(ò²üØ8…²Ó—Æ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ù¤î8†²Ó—Æ1
+J
+java:S1481+"-Remove this unused "clothing" local variable.(ò²üØ8†²Ó—Æ1
+]	java:S1250"<This block of commented-out lines of code should be removed.(ÈÎĞøÿÿÿÿ8‡²Ó—Æ1
+]	java:S1254"<This block of commented-out lines of code should be removed.(‡’÷ÿÿÿÿÿ8‡²Ó—Æ1
+L	java:S106:"+Replace this use of System.out by a logger.(ìíåÒıÿÿÿÿ8‡²Ó—Æ1
+L	java:S106?"+Replace this use of System.out by a logger.(šşîÓúÿÿÿÿ8‡²Ó—Æ1
+L	java:S106G"+Replace this use of System.out by a logger.(šşîÓúÿÿÿÿ8‰²Ó—Æ1
+>
+java:S1116H"Remove this empty statement.(ôŸìúÿÿÿÿ8‰²Ó—Æ1
